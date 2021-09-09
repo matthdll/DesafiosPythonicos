@@ -1,0 +1,1 @@
+Bom, esse pacote de desafios, referente ao clube de programadores Python do Henrique Bastos, foi muito bom e de grande importância, pro meu crescimento pessoal e aperfeiçoamento na linguagem, onde é muito trabalhado, listas, testes, dicionarios, modulos. Onde aprendi muito, e a cada vez mais evoluindo!
